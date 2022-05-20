@@ -6646,5 +6646,189 @@
   {
     "name": "Elements - Sparks 104 Hit Radial noCT noRSZ.mov",
     "numFrames": 24
+  },
+  {
+    "name": "01_dust_radial_1.mov",
+    "numFrames": 40
+  },
+  {
+    "name": "01_energy_radial_1.mov",
+    "numFrames": 27
+  },
+  {
+    "name": "01_explosion_directional_1.mov",
+    "numFrames": 60
+  },
+  {
+    "name": "01_fire_radial_1.mov",
+    "numFrames": 32
+  },
+  {
+    "name": "02_dust_radial_1.mov",
+    "numFrames": 32
+  },
+  {
+    "name": "02_energy_radial_1.mov",
+    "numFrames": 27
+  },
+  {
+    "name": "02_explosion_radial_1.mov",
+    "numFrames": 60
+  },
+  {
+    "name": "02_fire_radial_1.mov",
+    "numFrames": 55
+  },
+  {
+    "name": "03_dust_radial_1.mov",
+    "numFrames": 31
+  },
+  {
+    "name": "03_explosion_directional_1.mov",
+    "numFrames": 60
+  },
+  {
+    "name": "03_fire_radial_1.mov",
+    "numFrames": 35
+  },
+  {
+    "name": "04_dust_radial_1.mov",
+    "numFrames": 52
+  },
+  {
+    "name": "04_energy_radial_1.mov",
+    "numFrames": 31
+  },
+  {
+    "name": "04_explosion_directional_1.mov",
+    "numFrames": 60
+  },
+  {
+    "name": "04_fire_radial_1.mov",
+    "numFrames": 50
+  },
+  {
+    "name": "05_dust_radial_1.mov",
+    "numFrames": 26
+  },
+  {
+    "name": "05_energy_radial_1.mov",
+    "numFrames": 31
+  },
+  {
+    "name": "05_explosion_directional_1.mov",
+    "numFrames": 60
+  },
+  {
+    "name": "05_fire_radial_1.mov",
+    "numFrames": 42
+  },
+  {
+    "name": "06_dust_radial_1.mov",
+    "numFrames": 30
+  },
+  {
+    "name": "06_energy_radial_1.mov",
+    "numFrames": 30
+  },
+  {
+    "name": "06_explosion_directional_1.mov",
+    "numFrames": 60
+  },
+  {
+    "name": "06_fire_radial_1.mov",
+    "numFrames": 42
+  },
+  {
+    "name": "07_dust_radial_1.mov",
+    "numFrames": 30
+  },
+  {
+    "name": "07_energy_radial_1.mov",
+    "numFrames": 25
+  },
+  {
+    "name": "07_explosion_radial_1.mov",
+    "numFrames": 42
+  },
+  {
+    "name": "07_fire_radial_1.mov",
+    "numFrames": 55
+  },
+  {
+    "name": "08_dust_radial_1.mov",
+    "numFrames": 52
+  },
+  {
+    "name": "08_energy_radial_1.mov",
+    "numFrames": 19
+  },
+  {
+    "name": "08_explosioin_radial_1.mov",
+    "numFrames": 42
+  },
+  {
+    "name": "08_fire_radial_1.mov",
+    "numFrames": 55
+  },
+  {
+    "name": "09_dust_radial_1.mov",
+    "numFrames": 30
+  },
+  {
+    "name": "09_energy_radial_1.mov",
+    "numFrames": 29
+  },
+  {
+    "name": "09_explosion_directional_1.mov",
+    "numFrames": 61
+  },
+  {
+    "name": "09_fire_radial_1.mov",
+    "numFrames": 30
+  },
+  {
+    "name": "10_dust_radial_1.mov",
+    "numFrames": 37
+  },
+  {
+    "name": "10_energy_radial_1.mov",
+    "numFrames": 25
+  },
+  {
+    "name": "10_explosion_directional_1.mov",
+    "numFrames": 49
+  },
+  {
+    "name": "10_fire_radial_1.mov",
+    "numFrames": 45
+  },
+  {
+    "name": "11_explosion_directional_1.mov",
+    "numFrames": 54
+  },
+  {
+    "name": "13_explosion_directional_1.mov",
+    "numFrames": 55
+  },
+  {
+    "name": "14_explosions_directional_1.mov",
+    "numFrames": 55
+  },
+  {
+    "name": "15_explosions_radial_1.mov",
+    "numFrames": 54
+  },
+  {
+    "name": "16_explosions_directional_1.mov",
+    "numFrames": 61
+  },
+  {
+    "name": "17_explosions_radial_1.mov",
+    "numFrames": 37
+  },
+  {
+    "name": "18_explosions_radial_1.mov",
+    "numFrames": 51
   }
 ]
