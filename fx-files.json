@@ -6764,7 +6764,7 @@
     "numFrames": 19
   },
   {
-    "name": "08_explosioin_radial_1.mov",
+    "name": "08_explosion_radial_1.mov",
     "numFrames": 42
   },
   {
@@ -6812,23 +6812,23 @@
     "numFrames": 55
   },
   {
-    "name": "14_explosions_directional_1.mov",
+    "name": "14_explosion_directional_1.mov",
     "numFrames": 55
   },
   {
-    "name": "15_explosions_radial_1.mov",
+    "name": "15_explosion_radial_1.mov",
     "numFrames": 54
   },
   {
-    "name": "16_explosions_directional_1.mov",
+    "name": "16_explosion_directional_1.mov",
     "numFrames": 61
   },
   {
-    "name": "17_explosions_radial_1.mov",
+    "name": "17_explosion_radial_1.mov",
     "numFrames": 37
   },
   {
-    "name": "18_explosions_radial_1.mov",
+    "name": "18_explosion_radial_1.mov",
     "numFrames": 51
   }
 ]
